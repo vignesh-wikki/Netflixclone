@@ -23,6 +23,7 @@
   position: fixed;
   right:0;
   cursor:pointer;
+  overflow:hidden;
 }
 .navblack{
   background-color: black;
